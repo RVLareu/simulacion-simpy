@@ -1,3 +1,3 @@
 # simulacion-simpy
 
-![enunciado](./simpy_enunciado.jpg)
+![enunciado](./simpy_enunciado.png)
